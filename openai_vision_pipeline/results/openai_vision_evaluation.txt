@@ -1,0 +1,13 @@
+Accuracy: 0.28
+
+              precision    recall  f1-score   support
+
+       heart       0.50      0.20      0.29        15
+      oblong       0.00      0.00      0.00        15
+        oval       0.23      1.00      0.37        15
+       round       1.00      0.20      0.33        15
+      square       0.00      0.00      0.00        15
+
+    accuracy                           0.28        75
+   macro avg       0.35      0.28      0.20        75
+weighted avg       0.35      0.28      0.20        75

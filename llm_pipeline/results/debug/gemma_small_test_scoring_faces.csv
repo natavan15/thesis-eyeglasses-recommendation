@@ -1,0 +1,36 @@
+image_path,image_name,true_label,gemma_response
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\heart\img_no_1.jpg,img_no_1.jpg,heart,"heart: 3
+oblong: 5
+oval: 8
+round: 2
+square: 1
+best_class: oval
+reason: The face exhibits balanced proportions with a gently curved jawline and chin."
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\oblong\img_no_101.jpg,img_no_101.jpg,oblong,"heart: 3
+oblong: 5
+oval: 7
+round: 4
+square: 2
+best_class: oval
+reason: The face exhibits balanced proportions with a slightly longer appearance and soft features."
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\oval\img_no_201.jpg,img_no_201.jpg,oval,"heart: 3
+oblong: 5
+oval: 7
+round: 2
+square: 1
+best_class: oval
+reason: The face exhibits balanced proportions with a slightly longer appearance and soft features."
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\round\img_no_301.jpg,img_no_301.jpg,round,"heart: 3
+oblong: 4
+oval: 7
+round: 2
+square: 1
+best_class: oval
+reason: The face exhibits balanced proportions with a slightly longer appearance and soft features."
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\square\img_no_401.jpg,img_no_401.jpg,square,"heart: 3
+oblong: 5
+oval: 8
+round: 2
+square: 1
+best_class: oval
+reason: The face exhibits balanced proportions with a slightly longer appearance and soft features."

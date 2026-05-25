@@ -1,0 +1,25 @@
+Cross-Dataset Evaluation Results
+===================================
+
+Accuracy: 0.6000
+Weighted F1-score: 0.6050
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       heart       0.61      0.73      0.67        15
+      oblong       0.64      0.60      0.62        15
+        oval       0.33      0.40      0.36        15
+       round       0.73      0.53      0.62        15
+      square       0.79      0.73      0.76        15
+
+    accuracy                           0.60        75
+   macro avg       0.62      0.60      0.60        75
+weighted avg       0.62      0.60      0.60        75
+
+Confusion Matrix:
+[[11  1  2  1  0]
+ [ 1  9  5  0  0]
+ [ 4  0  6  2  3]
+ [ 2  0  5  8  0]
+ [ 0  4  0  0 11]]

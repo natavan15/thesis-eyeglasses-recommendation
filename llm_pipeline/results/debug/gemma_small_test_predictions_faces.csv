@@ -1,0 +1,11 @@
+image_path,image_name,true_label,gemma_response
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\heart\img_no_1.jpg,img_no_1.jpg,heart,"Face shape: oval
+Reason: The face appears slightly longer than it is wide, with balanced proportions between the forehead, cheek"
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\oblong\img_no_101.jpg,img_no_101.jpg,oblong,"Face shape: oval
+Reason: The face appears slightly longer than it is wide, with balanced proportions across the forehead, cheeks"
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\oval\img_no_201.jpg,img_no_201.jpg,oval,"Face shape: oval
+Reason: The face appears slightly longer than it is wide, with balanced proportions between the forehead, cheek"
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\round\img_no_301.jpg,img_no_301.jpg,round,"Face shape: oval
+Reason: The face appears slightly longer than it is wide, with balanced proportions between the forehead, cheek"
+D:\Thesis\thesis-eyeglasses\llm_pipeline\data\github_test_dataset_faces\square\img_no_401.jpg,img_no_401.jpg,square,"Face shape: oval
+Reason: The face appears slightly longer than it is wide, with a balanced forehead and jawline,"

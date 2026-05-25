@@ -1,0 +1,51 @@
+image_path,true_label,predicted_label,confidence,reason,raw_response
+openai_vision_pipeline/data/github_raw_500\heart\img_no_1.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_10.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_100.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_11.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, characteristic of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, characteristic of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_12.jpg,heart,heart,0.85,"The forehead is wider than the jawline, and the chin is pointed, characteristic of a heart-shaped face.","{
+  ""face_shape"": ""heart"",
+  ""confidence"": 0.85,
+  ""reason"": ""The forehead is wider than the jawline, and the chin is pointed, characteristic of a heart-shaped face.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_13.jpg,heart,heart,0.85,"The forehead is wider than the jawline, and the chin is pointed, characteristic of a heart-shaped face.","{
+  ""face_shape"": ""heart"",
+  ""confidence"": 0.85,
+  ""reason"": ""The forehead is wider than the jawline, and the chin is pointed, characteristic of a heart-shaped face.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_14.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_15.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, typical of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_16.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, characteristic of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, characteristic of an oval shape.""
+}"
+openai_vision_pipeline/data/github_raw_500\heart\img_no_17.jpg,heart,oval,0.85,"The face has balanced proportions with a slightly wider forehead and a gently rounded chin, characteristic of an oval shape.","{
+  ""face_shape"": ""oval"",
+  ""confidence"": 0.85,
+  ""reason"": ""The face has balanced proportions with a slightly wider forehead and a gently rounded chin, characteristic of an oval shape.""
+}"
